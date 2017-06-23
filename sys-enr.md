@@ -1,4 +1,4 @@
-produit de marque | document | valeur | prix de vente | url annonce | informations complémentaires et descriptifs.
+produit / marque | document | valeur | prix de vente | url annonce | informations complémentaires et descriptifs.
 ----|----|----|----|----|--------------------------------|
 aerothermo atlas simplex de sabiatherm | Atlas.pdf | 677€ HT | 450€ | http://bit.ly/2sIuevy
 panneaux solaires de freesuntec | Panneaux solaires.txt | 203,72€ HT | 40€ | http://bit.ly/2rJ0I7s
